@@ -11,9 +11,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Project/Scenes/FacePose.unity
     guid: ccc5e32bb96c52247aa61dd8ac8e76ce
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Project/Scenes/FaceMesh.unity
     guid: 1aef0948ef280114b92895159aab5020
+  - enabled: 0
+    path: Assets/_Project/Scenes/FacePose_Lecture.unity
+    guid: 2d10788aed9e19844b83cbc7f9e37083
+  - enabled: 1
+    path: Assets/_Project/Scenes/FaceMesh_Lecture.unity
+    guid: 09ba25afa9549f54d9fb79deffd2e2c3
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a9f4cecbc15be9f488495449f8dcaa69,
       type: 2}
